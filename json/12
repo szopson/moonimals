@@ -1,0 +1,19 @@
+{
+    "name": "Grizzlee",
+    "description": "Cyberpunk Grizzlee going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/12.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Grizzlee"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Misiu"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "0/km"
+        }
+    ]
+}

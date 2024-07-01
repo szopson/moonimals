@@ -1,0 +1,19 @@
+{
+    "name": "Panda",
+    "description": "Cyberpunk Panda going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/9.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Panda"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Designer"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Panda3/km"
+        }
+    ]
+}

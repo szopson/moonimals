@@ -1,0 +1,19 @@
+{
+    "name": "Monkey",
+    "description": "Cyberpunk Monkey going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/10.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Monkey"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Banana"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "faaaast"
+        }
+    ]
+}

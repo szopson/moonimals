@@ -1,0 +1,19 @@
+{
+    "name": "Gorrilla",
+    "description": "Cyberpunk Gorrilla going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/11.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Gorrilla"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Gorrillaaaaaa"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "chilled/km"
+        }
+    ]
+}

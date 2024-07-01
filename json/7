@@ -1,0 +1,19 @@
+{
+    "name": "White Frog",
+    "description": "Cyberpunk White Frog going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/7.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "White Frog"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Albie"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "100000 km/h"
+        }
+    ]
+}

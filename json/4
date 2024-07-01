@@ -1,0 +1,19 @@
+{
+    "name": "Moonimal Pepe Frog",
+    "description": "Cyberpunk Pepe Frog going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/4.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Pepe Frog"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Pepe"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Melancholy slow"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Moonimal Mutant Frog",
+    "description": "Cyberpunk Pepe Frog going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/5.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Mutant Frog"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Mutti"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "Reversed"
+        }
+    ]
+}

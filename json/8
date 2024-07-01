@@ -1,0 +1,19 @@
+{
+    "name": "Kangaroo",
+    "description": "Cyberpunk Kangaroo going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/8.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Kangaroo"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Aussie"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "max"
+        }
+    ]
+}

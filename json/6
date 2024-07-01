@@ -1,0 +1,19 @@
+{
+    "name": "Moonimal Lizard",
+    "description": "Cyberpunk Lizard going to the moon while sitting on a spaceship",
+    "image": "ipfs://QmVHQbpnwYsv1ML3Q3ocVzMLzcJ9nFemdvEcauX5PU29eL/6.png",
+    "attributes": [
+        {
+            "trait_type": "Animal",
+            "value": "Lizard"
+        },
+        {
+            "trait_type": "Name",
+            "value": "Lizzie"
+        },
+        {
+            "trait_type": "Speed",
+            "value": "0 km/h"
+        }
+    ]
+}
